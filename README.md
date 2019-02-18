@@ -1,8 +1,8 @@
 # TF_object_detection
 Object detection using Tensorflow api
 
-###install tensorflow
+### install tensorflow
 pip install tensorflow
 
-###install flask
+### install flask
 pip install flask
